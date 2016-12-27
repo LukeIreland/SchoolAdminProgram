@@ -1,0 +1,13 @@
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\bin\Debug\SchoolAdmin.exe.config
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\bin\Debug\SchoolAdmin.exe
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\bin\Debug\SchoolAdmin.pdb
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\SchoolAdmin.csprojResolveAssemblyReference.cache
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CompInfo.resources
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CtrlComputer.resources
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\SchoolAdmin.Properties.Resources.resources
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RoomDesigner.resources
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TestForm.resources
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\SchoolAdmin.csproj.GenerateResource.Cache
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\SchoolAdmin.exe
+H:\MyProject\SchoolAdmin\WindowsFormsApplication1\obj\Debug\SchoolAdmin.pdb
